@@ -1,6 +1,6 @@
 # requirements.txt
 
-# ===== BACKEND FRAMEWORK ===
+# === BACKEND FRAMEWORK ===
 fastapi==0.104.1        # Web framework for building APIs
 uvicorn==0.24.0         # ASGI server (runs FastAPI)
 
